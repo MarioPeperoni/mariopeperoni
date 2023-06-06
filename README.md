@@ -11,7 +11,7 @@ margin-bottom: 0px
 "
 >Hi, my name is <span style="font-weight: 600">Mateusz</span>!</h1>
 
-<span style="padding: 0px; font-size:18px">IT sudent at Uniwersytet Gdański</span>
+<span style="padding: 0px; font-size:18px">IT student at Uniwersytet Gdański</span>
 
 </div>
 
