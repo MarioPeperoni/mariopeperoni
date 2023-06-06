@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="cat.gif" width=50% align="center" style="margin: 0px; padding: 0px">
+    <img src="cat.gif" width=30% align="center" style="margin: 0px; padding: 0px">
 </div>
 
 ---
